@@ -4,6 +4,7 @@ metadata:
   name: multi-container
   labels:
     app: multi
+    user: dev
 spec:
   containers:
   - image: nginx
