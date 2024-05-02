@@ -10,4 +10,4 @@ spec:
     command:
       - "bin/bash"
       - "-c"
-      - "while true; do echo $(date) | tee /dev/stderr; sleep 1; done"
+      - "while true; do echo $(date) | tee /dev/stderr; sleep 2; done"
