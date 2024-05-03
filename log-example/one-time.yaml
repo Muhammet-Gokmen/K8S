@@ -10,4 +10,4 @@ spec:
     command:
       - "bin/bash"
       - "-c"
-      - echo "Simple pod.Simple log."
+      - echo "Simple pod.Simple logs."
